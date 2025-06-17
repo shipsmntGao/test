@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Gives players maximum attack and defense by applying strength and resistance effects.",
+    "name": "Max Stats",
+    "uuid": "8a639f07-678f-4356-9dde-bf84476879ed",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "description": "Max Stats behavior module",
+      "type": "data",
+      "uuid": "d9418899-42b7-466e-b048-5cfd1e11a1ec",
+      "version": [1, 0, 0]
+    }
+  ]
+}
